@@ -1,2 +1,3 @@
 Oh, NOW I can add text to this one.
 Way to get ahead of the lesson >:O !!
+Now to commit again to test commit messages with vsc instead of -m!
